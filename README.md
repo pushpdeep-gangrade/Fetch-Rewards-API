@@ -3,7 +3,7 @@
 # Table of Contents
 - [Introduction](#Introduction)
 - [How to use](#use)
-- [Documentation] (#Documentation)
+- [Documentation](#Documentation)
 - [Snippets](#Snippets)
 - [Author](#author)
 
