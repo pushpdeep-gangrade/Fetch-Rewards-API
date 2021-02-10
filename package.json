@@ -1,0 +1,35 @@
+{
+  "name": "fetch-rewards-api",
+  "version": "1.0.0",
+  "description": "Fetch Rewards API",
+  "main": "app.js",
+  "author": "Pushpdeep Gangrade",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "collections": "^5.1.12",
+    "cors": "^2.8.5",
+    "dateformat": "^4.5.1",
+    "express": "^4.17.1",
+    "isvalid": "^2.7.21",
+    "list": "^2.0.19",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushpdeep-gangrade/Fetch-Rewards-API"
+  },
+  "keywords": [
+    "REST",
+    "API"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pushpdeep-gangrade/Fetch-Rewards-API/issues"
+  },
+  "homepage": "https://github.com/pushpdeep-gangrade/Fetch-Rewards-API#readme"
+}
