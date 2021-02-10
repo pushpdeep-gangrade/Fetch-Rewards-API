@@ -21,8 +21,13 @@ https://documenter.getpostman.com/view/8888581/TW77fNqD
 5. Make request
 
 ## Snippets
+post request
 <img src="https://github.com/pushpdeep-gangrade/Fetch-Rewards-API/blob/main/API%20Snippets/APISnippetPost.PNG">
+
+get request
 <img src="https://github.com/pushpdeep-gangrade/Fetch-Rewards-API/blob/main/API%20Snippets/APISnippetGet.PNG">
+
+delete request
 <img src="https://github.com/pushpdeep-gangrade/Fetch-Rewards-API/blob/main/API%20Snippets/APISnippetDelete.PNG">
 
 
