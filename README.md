@@ -4,6 +4,7 @@
 - [Introduction](#Introduction)
 - [Author](#author)
 - [How to use](#use)
+- [Snippets](#Snippets)
 
 ## Introduction
 Fetch-Rewards API is designed sugin nodejs and express framework. The is used to fetch, update and deduct points from users account in the system. 
@@ -18,6 +19,12 @@ https://documenter.getpostman.com/view/8888581/TW77fNqD
 3. nodemon app.js
 4. Check documentation at https://documenter.getpostman.com/view/8888581/TW77fNqD
 5. Make request
+
+## Snippets
+<img src="https://github.com/pushpdeep-gangrade/Fetch-Rewards-API/blob/main/API%20Snippets/APISnippetPost.PNG">
+<img src="https://github.com/pushpdeep-gangrade/Fetch-Rewards-API/blob/main/API%20Snippets/APISnippetGet.PNG">
+<img src="https://github.com/pushpdeep-gangrade/Fetch-Rewards-API/blob/main/API%20Snippets/APISnippetDelete.PNG">
+
 
 ## Authors <a name="authors"></a>
 - Pushpdeep Gangrade
