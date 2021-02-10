@@ -2,9 +2,10 @@
 
 # Table of Contents
 - [Introduction](#Introduction)
-- [Author](#author)
 - [How to use](#use)
+- [Documentation] (#Documentation)
 - [Snippets](#Snippets)
+- [Author](#author)
 
 ## Introduction
 Fetch-Rewards API is designed sugin nodejs and express framework. The is used to fetch, update and deduct points from users account in the system. 
@@ -19,6 +20,10 @@ https://documenter.getpostman.com/view/8888581/TW77fNqD
 3. nodemon app.js
 4. Check documentation at https://documenter.getpostman.com/view/8888581/TW77fNqD
 5. Make request
+
+## Documentation
+Docuemntation to API can be found at 
+https://documenter.getpostman.com/view/8888581/TW77fNqD
 
 ## Snippets
 
